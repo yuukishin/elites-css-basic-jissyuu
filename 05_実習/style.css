@@ -1,0 +1,22 @@
+.main{
+    width:700px;
+    margin:0 auto;
+}
+.upper_logo{
+    float:left;
+}
+.upper_article{
+    float:right;
+}
+
+.bottom_logo{
+    float:left;
+}
+
+.bottom_article{
+    float:right;
+}
+
+.clear{
+    clear:both;
+}

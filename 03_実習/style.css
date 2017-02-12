@@ -1,0 +1,28 @@
+p{
+    text-align:center;
+}
+
+.ok{
+    color:#3c763d ;
+    background-color:#dff0d8;
+    border:1px solid #c6e9a6;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+.error{
+    color:#a94442;
+    background-color:#f2dede;
+    border:1px solid #ebccd1;
+    padding:10px;
+    margin-bottom:10px;
+
+}
+
+.info{
+    color:#3a87ad;
+    background-color:#d9edf7;
+    border:1px solid #bce8f1;
+    padding:10px;
+    margin-bottom:10px;
+}
